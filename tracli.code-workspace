@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../tracli-cli"
+		},
+		{
+			"path": "../tracli-ui"
+		}
+	],
+	"settings": {}
+}
